@@ -8,7 +8,7 @@ tags:
     - InstallerX
 ---
 
-## InstallerX 1.7(31) Utsnable 发布, [下载该版本](/file/InstallerX1.7(31)Unstable.apk).
+## InstallerX 1.7(31) Utsnable 发布, [下载该版本](/file/InstallerX_1.7(31)Unstable.apk).
 
 ### 更新内容
 

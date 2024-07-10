@@ -8,7 +8,7 @@ tags:
     - InstallerX
 ---
 
-## InstallerX 1.7(31) Preview 发布, [下载该版本](/file/InstallerX_1.7(31)preview.apk).
+## InstallerX 1.7(31) Preview 发布, [下载该版本](/file/InstallerX_1.7(31)Preview.apk).
 
 ### 更新内容
 
