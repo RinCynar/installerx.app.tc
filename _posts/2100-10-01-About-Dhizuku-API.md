@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "关于InstallerX"
+title: "关于Dhizuku-API"
 author: "Rosan(Maker), RinCynar(Repost)"
 header-style: text
 catalog: true
