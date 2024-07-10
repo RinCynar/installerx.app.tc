@@ -8,7 +8,7 @@ tags:
     - InstallerX
 ---
 
-## InstallerX 1.6(23) 发布, [下载该版本](/file/InstallerX_1.6(22).apk).
+## InstallerX 1.6(22) 发布, [下载该版本](/file/InstallerX_1.6(22).apk).
 
 ### 更新内容
 
