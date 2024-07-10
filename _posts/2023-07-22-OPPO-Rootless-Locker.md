@@ -5,7 +5,7 @@ author: "Rosan(Maker), RinCynar(Repost)"
 header-style: text
 catalog: true
 tags:
-    - InstallerX
+    - Other
 ---
 
 ## 无需ROOT OPPO锁定安装器 发布,
