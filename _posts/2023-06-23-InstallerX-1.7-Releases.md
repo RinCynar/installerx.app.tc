@@ -1,11 +1,11 @@
 ---
 layout:       post
-title:        "InstallerX stable v1.2 发布"
+title:        "InstallerX stable v1.7 发布"
 author:       "Rosan(Maker), RinCynar(Repost)"
 header-style: text
 catalog:      true
 ---
-# InstallerX 1.2 正式版发布, [下载该版本](/file/InstallerX-stable-v1.7.apk).
+# InstallerX 1.7 正式版发布, [下载该版本](/file/InstallerX-stable-v1.7.apk).
 ## 更新内容
 ### 新增 APKS(zip)类型安装包支持
 ### 新增 设置页全局授权器

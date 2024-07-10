@@ -1,6 +1,6 @@
 ---
 layout:       post
-title:        "InstallerX stable v1.2 发布"
+title:        "InstallerX Locker v1.2 发布"
 author:       "Rosan(Maker), RinCynar(Repost)"
 header-style: text
 catalog:      true
