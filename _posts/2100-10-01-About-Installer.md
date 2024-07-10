@@ -1,15 +1,17 @@
 ---
-layout:       post
-title:        "关于InstallerX"
-author:       "Rosan(Maker), RinCynar(Repost)"
+layout: post
+title: "关于InstallerX"
+author: "Rosan(Maker), RinCynar(Repost)"
 header-style: text
-catalog:      true
+catalog: true
 tags:
-  - About
+    - About
 ---
 
 # InstallerX
+
 ## 介绍
+
 一款应用安装程序，为什么不试试【InstallerX】？
 <br>
 在国产系统的魔改下，许多系统的自带安装程序体验并不是很好，你可以使用【InstallerX】替换掉系统默认安装程序。
@@ -18,17 +20,23 @@ tags:
 <br>
 
 ## 支持版本
+
 <br>
 Android 5.0 ~ ?
 <br>
 
 ## 下载
+
 ### <a href="https://t.me/InstallerXFake">-官方Telegram群组</a>
+
 ### <a href="https://inx.rcva.san.tc">-Fake.InstallerX</a>
+
 ### <a href="https://qm.qq.com/q/b7OncY19IW">-lпsтaIIeгX 宫仿裙（原官方群成员自发组建）</a>
 
 ## 开源协议
+
 </h3><br>
-InstallerX目前基于 [**GNU General Public License v3 (GPL-3)**](http://www.gnu.org/copyleft/gpl.html) 开源，但不保证未来依然继续遵循此协议或开源，有权更改开源协议或开源状态。
+InstallerX目前基于 [**GNU General Public License v3 (GPL-3)**](http://www.gnu.org/copyleft/gpl.html)
+开源，但不保证未来依然继续遵循此协议或开源，有权更改开源协议或开源状态。
 <br>
 当您选择基于InstallerX进行开发时，需遵循所当前依赖的上游源码所规定的开源协议，不受新上游源码的开源协议影响。
