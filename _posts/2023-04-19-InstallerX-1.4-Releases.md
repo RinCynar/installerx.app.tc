@@ -4,6 +4,8 @@ title:        "InstallerX stable v1.4 发布"
 author:       "Rosan(Maker), RinCynar(Repost)"
 header-style: text
 catalog:      true
+tags:
+  - InstallerX
 ---
 ## InstallerX 1.4 正式版发布, [下载该版本](/file/InstallerX-stable-v1.4.apk).
 ### 更新内容

@@ -4,6 +4,8 @@ title:        "关于InstallerX"
 author:       "Rosan(Maker), RinCynar(Repost)"
 header-style: text
 catalog:      true
+tags:
+  - About
 ---
 
 # InstallerX
