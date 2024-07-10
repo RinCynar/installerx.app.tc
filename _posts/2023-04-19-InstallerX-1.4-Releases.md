@@ -5,7 +5,7 @@ author:       "Rosan(Maker), RinCynar(Repost)"
 header-style: text
 catalog:      true
 ---
-# InstallerX 1.4 正式版发布, [下载该版本](/file/InstallerX-stable-v1.4.apk)
+# InstallerX 1.4 正式版发布, [下载该版本](/file/InstallerX-stable-v1.4.apk).
 ## 更新内容
 ### 有一种鸟儿是永远也关不住的，因为它的每片羽翼都沾满了自由的光辉！ --《肖申克的救赎》
 <br>

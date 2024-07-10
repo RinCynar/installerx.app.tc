@@ -5,7 +5,7 @@ author:       "Rosan(Maker), RinCynar(Repost)"
 header-style: text
 catalog:      true
 ---
-# InstallerX 1.6 正式版发布, [下载该版本](/file/InstallerX-stable-v1.6.apk)
+# InstallerX 1.6 正式版发布, [下载该版本](/file/InstallerX-stable-v1.6.apk).
 ## 更新内容
 ### 新增 授权复用
 ### 一定时间内的不会重复申请授权，对多个安装有一定提速效果
