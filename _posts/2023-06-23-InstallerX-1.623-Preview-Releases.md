@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "InstallerX v1.6(23) 发布"
+title: "InstallerX v1.6(23)Preview 发布"
 author: "Rosan(Maker), RinCynar(Repost)"
 header-style: text
 catalog: true
@@ -8,7 +8,7 @@ tags:
     - InstallerX
 ---
 
-## InstallerX 1.6(23) 发布, [下载该版本](/file/InstallerX_1.6(23).apk).
+## InstallerX 1.6(23)Preview 发布, [下载该版本](/file/InstallerX_1.6(23).apk).
 
 ### 更新内容
 
