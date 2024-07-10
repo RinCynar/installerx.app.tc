@@ -8,7 +8,8 @@ tags:
     - InstallerX
 ---
 
-## InstallerX 1.7(30) t11发布, [下载该版本](/file/InstallerX_1.7(30)-t11.apk).
+## InstallerX 1.7(30) t11发布,
+## [下载该版本](/file/InstallerX_1.7(30)-t11.apk).
 
 ### 更新内容
 

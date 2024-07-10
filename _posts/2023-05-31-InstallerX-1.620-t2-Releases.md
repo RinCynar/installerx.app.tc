@@ -8,7 +8,8 @@ tags:
     - InstallerX
 ---
 
-## InstallerX 1.6(20)t2 发布, [下载该版本](/file/InstallerX_1.6(20)-t2.apk).
+## InstallerX 1.6(20)t2 发布,
+## [下载该版本](/file/InstallerX_1.6(20)-t2.apk).
 
 ### 更新内容
 

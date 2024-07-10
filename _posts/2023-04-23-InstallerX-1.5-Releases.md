@@ -8,7 +8,8 @@ tags:
     - InstallerX
 ---
 
-## InstallerX 1.5 正式版发布, [下载该版本](/file/InstallerX-stable-v1.5.apk).
+## InstallerX 1.5 正式版发布,
+## [下载该版本](/file/InstallerX-stable-v1.5.apk).
 
 ### 更新内容
 

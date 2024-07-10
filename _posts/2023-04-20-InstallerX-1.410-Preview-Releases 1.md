@@ -8,7 +8,8 @@ tags:
     - InstallerX
 ---
 
-## InstallerX v1.4(10)Preview 发布, [下载该版本](/file/InstallerX_1.4 (10)Preview.apk).
+## InstallerX v1.4(10)Preview 发布,
+## [下载该版本](/file/InstallerX_1.4 (10)Preview.apk).
 
 ### 更新内容
 

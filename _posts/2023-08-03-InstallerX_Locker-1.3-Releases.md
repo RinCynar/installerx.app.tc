@@ -8,7 +8,8 @@ tags:
     - InstallerXLocker
 ---
 
-## InstallerX Locker 1.3 正式版发布, [下载该版本](file/InstallerX_Locker-v1.3.apk).
+## InstallerX Locker 1.3 正式版发布,
+## [下载该版本](file/InstallerX_Locker-v1.3.apk).
 
 ### 更新内容
 

@@ -8,7 +8,8 @@ tags:
     - Dhizuku-API
 ---
 
-## Dhizuku-API 2.0 demo发布, [下载该版本](/file/demo-user_service-v2.0.apk).
+## Dhizuku-API 2.0 demo发布,
+## [下载该版本](/file/demo-user_service-v2.0.apk).
 
 ### 更新内容
 
