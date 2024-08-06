@@ -5,7 +5,7 @@ author: "Rosan(Maker), RinCynar(Repost)"
 header-style: text
 catalog: true
 tags:
-    - Dhizuku
+    - DhizukuServerDemo
 ---
 
 ## Dhizuku Server Demo 1.0 发布,
