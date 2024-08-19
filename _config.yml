@@ -5,7 +5,7 @@ header-img: img/inx.l.png
 email: 0rhendX@gmail.com
 description: "A modern and functional Android app installer. (You know some birds are not meant to be caged, their feathers are just too bright.)"
 keyword: "inx, InstallerX"
-url: "https://inx.rcva.san.tc" # your host, for absolute URL
+url: "https://installerx.app.tc" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
