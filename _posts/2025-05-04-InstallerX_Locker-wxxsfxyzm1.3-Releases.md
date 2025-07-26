@@ -1,0 +1,17 @@
+---
+layout: post
+title: "由 wxxsfxyzm 修改的 InstallerX Locker v1.3 分支 发布"
+author: "Rosan(Maker), wxxsfxyzm(Maker), RinCynar(Repost)"
+header-style: text
+catalog: true
+tags:
+    - InstallerXLocker
+    - wxxsfxyzm
+---
+
+## 由 [wxxsfxyzm](https://github.com/wxxsfxyzm) 修改的 InstallerX Locker v1.3 分支 发布,原地址[在此](https://github.com/wxxsfxyzm/InstallerX-Revived/releases/tag/v2.2)
+## [下载该版本](/file/InstallerX_Locker-wxxsfxyzm-1.3.apk).
+
+### 更新内容
+
+#### 修改锁定器，适配新包名

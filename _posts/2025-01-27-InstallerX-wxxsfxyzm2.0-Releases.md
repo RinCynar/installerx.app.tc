@@ -9,7 +9,7 @@ tags:
     - wxxsfxyzm
 ---
 
-## 由 [wxxsfxyzm](https://github.com/wxxsfxyzm) 修改的 InstallerX 2.0 分支 发布,
+## 由 [wxxsfxyzm](https://github.com/wxxsfxyzm) 修改的 InstallerX 2.0 分支 发布, 原地址[在此](https://github.com/wxxsfxyzm/InstallerX-Revived/releases/tag/v2.0)
 ## [下载该版本](/file/InstallerX-wxxsfxyzm-2.0.apk).
 
 ### 更新内容
