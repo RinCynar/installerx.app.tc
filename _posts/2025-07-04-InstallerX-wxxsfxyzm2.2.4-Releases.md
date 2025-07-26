@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "由 wxxsfxyzm 修改的 InstallerX 2.2.4 分支 发布"
+title: "由 wxxsfxyzm 维护的 InstallerX 2.2.4 分支 发布"
 author: "Rosan(Maker), wxxsfxyzm(Maker), RinCynar(Repost)"
 header-style: text
 catalog: true
@@ -9,7 +9,7 @@ tags:
     - wxxsfxyzm
 ---
 
-## 由 [wxxsfxyzm](https://github.com/wxxsfxyzm) 修改的 InstallerX 2.2.4 分支 发布,原地址[在此](https://github.com/wxxsfxyzm/InstallerX-Revived/releases/tag/v2.2.4)
+## 由 [wxxsfxyzm](https://github.com/wxxsfxyzm) 维护的 InstallerX 2.2.4 分支 发布,原地址[在此](https://github.com/wxxsfxyzm/InstallerX-Revived/releases/tag/v2.2.4)
 ## [下载 arm64v8a 版本](/file/InstallerX-wxxsfxyzm-2.2.4-arm64.apk).
 ## [下载 armeabi 版本](/file/InstallerX-wxxsfxyzm-2.2.4-armeabi.apk).
 ## [下载 x64 版本](/file/InstallerX-wxxsfxyzm-2.2.4-x64.apk).
