@@ -10,7 +10,7 @@ tags:
 
 # Dhizuku API
 
-Dhizuku API 是 Dhizuku ([About](https://installerx.app.tc/2100/10/01/About-Dhizuku/), [Github](https://github.com/iamr0s/Dhizuku) 的 API。
+Dhizuku API 是 Dhizuku ([About](/2100/10/01/About-Dhizuku/), [Github](https://github.com/iamr0s/Dhizuku) 的 API。
 
 ## 导入
 
