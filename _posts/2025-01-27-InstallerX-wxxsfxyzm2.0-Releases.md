@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "由 wxxsfxyzm 维护的 InstallerX 2.0 分支 发布"
+title: "由 wxxsfxyzm 维护的 InstallerX-Revived 2.0 发布"
 author: "Rosan(Maker), wxxsfxyzm(Maker), RinCynar(Repost)"
 header-style: text
 catalog: true
@@ -9,7 +9,7 @@ tags:
     - wxxsfxyzm
 ---
 
-## 由 [wxxsfxyzm](https://github.com/wxxsfxyzm) 维护的 InstallerX 2.0 分支 发布, 原地址[在此](https://github.com/wxxsfxyzm/InstallerX-Revived/releases/tag/v2.0)
+## 由 [wxxsfxyzm](https://github.com/wxxsfxyzm) 维护的 InstallerX-Revived 2.0 发布, 原地址[在此](https://github.com/wxxsfxyzm/InstallerX-Revived/releases/tag/v2.0)
 ## [下载该版本](/file/InstallerX-wxxsfxyzm-2.0.apk).
 
 ### 更新内容
